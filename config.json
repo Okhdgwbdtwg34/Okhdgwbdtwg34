@@ -1,1 +1,5 @@
-
+{
+    "prefix": "$",
+    "slash":  "/", 
+    "mongooose": "mongodb+srv://hamo:hamo@cluster0.ykuiqty.mongodb.net/?retryWrites=true&w=majority"
+}
